@@ -33,4 +33,4 @@ A responsive web application designed for regional Chambers of Commerce to displ
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/chamber-commerce-directory.git](https://github.com/your-username/chamber-commerce-directory.git)
+   git clone [https://sorayaskavinski.github.io/wdd231](https://sorayaskavinski.github.io/wdd231/)
